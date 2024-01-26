@@ -1,4 +1,4 @@
-const wrapper = doucment.querySelector(".wrapper"),
+const wrapper = doucument.querySelector(".wrapper"),
 inputPart = document.querySelector(".input-part"),
 infoTxt = inputPart.querySelector(".info-txt"),
 inputField = inputPart.querySelector("input"),
